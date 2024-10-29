@@ -5,6 +5,17 @@ I’m Alejandro, a passionate Data Analyst and Antropologist with expertise in d
 Where to find me:
 - [Linkedln](https://www.linkedin.com/in/alejandro-reyes-mendez-3a6a79275/)
 
+🔧 Skills & Technologies:
+  
+- Programming Languages: Python, SQL
+
+- Data Analysis & Data Storytelling:
+
+- Visualization Tools: Matplotlib, Seaborn, Power BI, Tableau
+
+- Python Libraries: pandas, numpy, matplotlib, seaborn, scipy
+
+
 <!--
 **Alex-Reyes-Mendez/Alex-Reyes-Mendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
