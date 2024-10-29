@@ -1,6 +1,6 @@
 ![Banner de Linkedin Especialista Crianza Respetuosa Simple Fucsia](https://github.com/user-attachments/assets/03464826-c347-45b9-8270-3a4e1f089836)
 ## Hi there 👋
-## I’m Alejandro, a passionate Data Analyst and Antropologist with expertise in data analysis & data storytelling
+## I’m Alejandro, a passionate Data Analyst with expertise in data analysis & data storytelling
 
  
 Where to find me:
