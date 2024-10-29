@@ -1,4 +1,8 @@
 ## Hi there 👋
+I’m Alejandro, a passionate Data Analyst and Antropologist with expertise in data analysis & data storytelling
+
+Where to find me: 
+- [Linkedln](https://www.linkedin.com/in/alejandro-reyes-mendez-3a6a79275/)
 
 <!--
 **Alex-Reyes-Mendez/Alex-Reyes-Mendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
